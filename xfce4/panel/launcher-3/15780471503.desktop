@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Next Workspace
+Exec=xdotool set_desktop --relative 1
+Icon=xfce4-workspaces
+Terminal=false
+StartupNotify=false

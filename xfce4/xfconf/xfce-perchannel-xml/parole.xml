@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="parole" version="1.0">
+  <property name="subtitles" type="empty">
+    <property name="font" type="string" value="Sans Bold 20"/>
+  </property>
+  <property name="window" type="empty">
+    <property name="maximized" type="bool" value="false"/>
+    <property name="width" type="int" value="760"/>
+    <property name="height" type="int" value="420"/>
+  </property>
+  <property name="audio" type="empty">
+    <property name="volume" type="int" value="100"/>
+    <property name="visualization-enabled" type="bool" value="true"/>
+    <property name="visualization-name" type="string" value="goom2k1"/>
+  </property>
+  <property name="folders" type="empty">
+    <property name="last-used-media" type="string" value="/home/aby/Downloads/aby/all videos"/>
+  </property>
+  <property name="video" type="empty">
+    <property name="aspect-ratio" type="string" value="PAROLE_ASPECT_RATIO_AUTO"/>
+    <property name="videosink" type="string" value="autoimagesink"/>
+  </property>
+  <property name="parole" type="empty">
+    <property name="plugins" type="string" value="parole-notify.so"/>
+  </property>
+</channel>
