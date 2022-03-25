@@ -1,10 +1,10 @@
 # xfce-dots
 dot files (config files) for my xfce rice/setup
 
-#screenshot
+# screenshot
 ![desktop](https://cdn.discordapp.com/attachments/956596331042975766/956596397531074580/image.png)
 
-#info
+# info
 
 DE: Xfce 4.16
 WM: Xfwm4
