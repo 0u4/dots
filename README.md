@@ -2,7 +2,7 @@
 dot files (config files) for my 2nd xfce rice/setup
 
 # screenshot
-![desktop](https://media.discordapp.net/attachments/956596331042975766/957651657771085844/IMG_20220327_201519.png)
+![desktop](https://media.discordapp.net/attachments/635625917623828520/957370725122060339/xfce.png)
 
 # info
 
