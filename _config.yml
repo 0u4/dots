@@ -1,15 +1,3 @@
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "henrythemes/hello-minima-theme"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-# Site settings
-#title: Aby's dots
-#email: your_email@example.com
-#author: Aby
-#description: "simple, beautiful dots for aesthetic workflow."
-#baseurl: ""
-#url: "https://sharkaby.com/"
-
-# Build settings
-#markdown: kramdown
-#permalink: pretty
-#paginate: 3
+plugins: "jekyll-include-cache"
