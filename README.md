@@ -1,5 +1,5 @@
 # Welcome!
-Below are all my xfce rices and their dots.
+This page has collection of all my xfce rices.
 
 # Collection
 
