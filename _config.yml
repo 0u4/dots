@@ -1,5 +1,5 @@
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jekyll-whiteglass"
+remote_theme: "henrythemes/hello-minima-theme"
 
 # Site settings
 #title: Aby's dots
