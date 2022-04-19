@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://abyseku.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://abyseku.github.io/xfce-dots"
 repository               : "abyseku/xfce-dots"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
