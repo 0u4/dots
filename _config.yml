@@ -1,5 +1,5 @@
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "johno/pixyll"
+remote_theme: "jekyll-whiteglass"
 
 # Site settings
 #title: Aby's dots
@@ -10,6 +10,6 @@ remote_theme: "johno/pixyll"
 #url: "https://sharkaby.com/"
 
 # Build settings
-markdown: kramdown
-permalink: pretty
-paginate: 3
+#markdown: kramdown
+#permalink: pretty
+#paginate: 3
