@@ -2,12 +2,12 @@
 remote_theme: "johno/pixyll"
 
 # Site settings
-title: Aby's dots
-email: your_email@example.com
-author: Aby
-description: "simple, beautiful dots for aesthetic workflow."
-baseurl: ""
-url: "https://sharkaby.com/"
+#title: Aby's dots
+#email: your_email@example.com
+#author: Aby
+#description: "simple, beautiful dots for aesthetic workflow."
+#baseurl: ""
+#url: "https://sharkaby.com/"
 
 # Build settings
 markdown: kramdown
