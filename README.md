@@ -1,7 +1,5 @@
-# Welcome!
-This page has collection of all my xfce rices.
-
 # Collection
+This page has collection of all my xfce rices.
 
 ## Xfce Mint dots
 [![Xfce on Mint](https://cdn.discordapp.com/attachments/956596331042975766/965938114193412096/xfce1.png)](https://github.com/abyseku/xfce-dots/tree/xfce-on-mint)
