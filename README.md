@@ -4,11 +4,11 @@ Below are all my xfce rices and their dots.
 # Collection
 
 ## Xfce Mint dots
-[![Xfce on Mint](https://cdn.discordapp.com/attachments/956596331042975766/965936626054361149/IMG_20220419_165550.png)](https://github.com/abyseku/xfce-dots/tree/xfce-on-mint)
+[![Xfce on Mint](https://cdn.discordapp.com/attachments/956596331042975766/965938114193412096/xfce1.png)](https://github.com/abyseku/xfce-dots/tree/xfce-on-mint)
 
 
 ## Xfce Kali dots
-[![Xfce on Kali](https://cdn.discordapp.com/attachments/956596331042975766/965936639639707688/IMG_20220419_165527.png)](https://github.com/abyseku/xfce-dots/tree/xfce-on-kali)
+[![Xfce on Kali](https://cdn.discordapp.com/attachments/956596331042975766/965938126784716850/xfce2.png)](https://github.com/abyseku/xfce-dots/tree/xfce-on-kali)
 
 # hardware info
 
